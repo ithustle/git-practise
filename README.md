@@ -1,2 +1,2 @@
 # git-practise
-Mandando novas atualiazações
+mandando novas atualizações
